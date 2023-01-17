@@ -3,7 +3,7 @@ import pandas as pd
 input_file="SampleData.csv"
 data=pd.read_csv(input_file)
 
-openai.api_key="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"
+openai.api_key=""
 
 #convert the dataframe to a string
 data_str = "The dataframe is :\n"+data.to_string()
