@@ -1,0 +1,11 @@
+commands
+
+Print CSV Data
+How the data will look in table format
+
+Give value count of dataset using Rep column
+
+Group the unit cost into 3 groups of high, medium and low price range
+
+Build a model to predict using the unit cost column as target class
+
